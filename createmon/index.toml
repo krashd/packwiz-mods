@@ -211,11 +211,6 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "185d3f4d972c8a414623fc9b53e1f254b32efb982d29c2fab4801ad286c61589"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
 metafile = true
@@ -237,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fullstack-watchdog.pw.toml"
-hash = "be9a0a94c489887273677978d0a8f998ec850a67377aae001a0887ef7184fcb9"
+hash = "2bad688e544416add9ebadfa67a936b956d22d6f31761167218e6fa910fa9ef0"
 metafile = true
 
 [[files]]
@@ -403,4 +398,9 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a463fa850e6872df8ccbb7aed6e5f529e76c1f2c85bd5f8296dcb89f9227b568"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "290621ae12ef318d4b29f52bfc05a8491104a04174513f7553140a344268ea61"
 metafile = true
