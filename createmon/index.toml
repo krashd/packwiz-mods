@@ -266,6 +266,11 @@ hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "8fb3d14fac7980153f2258154ef631af36d2bee8163b8543d6bca70605589c53"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "76ad5b491a38df4f6debfae8808cb455c9b7ecd6c039a814ce1639278ac1f86c"
 metafile = true
