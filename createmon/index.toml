@@ -351,11 +351,6 @@ hash = "45d3179e1feff16649dab48ed6e28bf6e0c7d18940f72d3185afe25bf2acca4d"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
-metafile = true
-
-[[files]]
 file = "mods/simply-steel-continued.pw.toml"
 hash = "67d507fc8e693da9c04cb67a4f22e983f10d26506f731e7e9d751338bd20a85b"
 metafile = true
