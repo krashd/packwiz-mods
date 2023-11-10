@@ -1,0 +1,13 @@
+name = "Simply Steel Continued"
+filename = "simplysteel-1.20.1-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWzswank/versions/FekwA9Ai/simplysteel-1.20.1-2.3.1.jar"
+hash-format = "sha1"
+hash = "70f1f2a2f576649aa4e8ab0c2b48774196aaa616"
+
+[update]
+[update.modrinth]
+mod-id = "iWzswank"
+version = "FekwA9Ai"

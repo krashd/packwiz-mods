@@ -1,0 +1,13 @@
+name = "TooManyOres"
+filename = "TooManyOres 0.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pPwUnAGB/versions/Wh0HSO5O/TooManyOres%200.9.4.jar"
+hash-format = "sha1"
+hash = "c58c3f1d1c082bf3044ee4e2ea8244fa333aa1b1"
+
+[update]
+[update.modrinth]
+mod-id = "pPwUnAGB"
+version = "Wh0HSO5O"
