@@ -1,13 +1,13 @@
 name = "Cobblemon Integrations"
-filename = "cobblemonintegrations-1.20.1-1.0.2.jar"
+filename = "cobblemonintegrations-1.20.1-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/BoG4TvBC/cobblemonintegrations-1.20.1-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/rPV80Mx0/cobblemonintegrations-1.20.1-1.0.3.jar"
 hash-format = "sha1"
-hash = "2fc0bdd4457a17e93ddf296c12bdc4990488c8bc"
+hash = "1c9ddd61366789d4aec446be8025ac5908f63bf7"
 
 [update]
 [update.modrinth]
 mod-id = "NPCfuUI4"
-version = "BoG4TvBC"
+version = "rPV80Mx0"

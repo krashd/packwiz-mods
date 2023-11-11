@@ -56,6 +56,11 @@ hash = "e084806c2e4909df1e3def26cd55480ab6d018fd5fee724cd3ad2234f003e726"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "efaee9c6306dc0f4f2294bf4e1d5f6b025198d52ede046b1aaf3fb181572bdad"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "1cde5b24783318d1a0b6e2f56f2d04438a34922ef0b3e2cfd6f910557bea25a2"
 metafile = true
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "0b687331b6fb7c38d802f2d71e4b4edf61b0c6b064c56612041c3d03ed695f90"
+hash = "0e87c740f2d0a9a6b5bc02233cf4575ce809fe6036dda3acd733e13fc8c591b9"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7df8b9795c51643f31cba87ecaea0db96cf2edae97f09e1d37f85fba82adceb8"
+hash = "fe6524e630aab55402ad3a5a8b143e2987f8d531abb77714d8f8e8a47044f78f"
 metafile = true
 
 [[files]]
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "952bd666c00ec103e284ab07b725aae2e35c224c10130b1489c61811a49809b2"
+hash = "ecf61b5686974449097ca22f0fe9bc330a2433e71057fe32fd934daf25ef4f9f"
 metafile = true
 
 [[files]]
@@ -157,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b1ac7f47a3fcc68eee51e87884aca8db5f94d61e1f54a50c9652cf476ae5b13b"
+hash = "3c3c54a5455e74af9b194ece54602dd71b94eb4436398207eaba263abded4a80"
 metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "3d2ff6a238b74042717890ca16f3a8072100df0cb2ec2721431d7e08c124bb6f"
+hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
 
 [[files]]
@@ -202,12 +207,17 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "71ffb1d7ae6dcfec51856bc907805b10c02c6cea4f3b02ff19a8564f12f243ed"
+hash = "7df65dc51b6f723fe2c3bcb060510f89da8dbca4bb13292d48c9254b69972c96"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
 metafile = true
 
 [[files]]
@@ -238,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "6bd4ed1b7b3552d90d9c957f0075cd2681becfadff9e157d002a174f857db35a"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a5983e34f42feda3ae15a7d5f4286a1ee35a4ec4b6ab5b841d0b2436bde0ee8c"
 metafile = true
 
 [[files]]
@@ -367,12 +382,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "23e089ae63402c0f79986b4cccb0f4b8165e47612a40b89f2fcab27a63250a96"
+hash = "6ef50f6e7666db18c38e82074b3cbe6eaaf84f9f394a7d83919473fb9a709ba3"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "506277098b3e52fe5e44a99cb998fb5d83ae0bf60dd3655d66e9726d2edc75fd"
+hash = "bef0c9da752f459c8e520f99286ca86fd2baf4c09ea5224d4099134ac56fd9d0"
 metafile = true
 
 [[files]]
@@ -402,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "a463fa850e6872df8ccbb7aed6e5f529e76c1f2c85bd5f8296dcb89f9227b568"
+hash = "b34117eaa0340babcc836c285da52b3e86ce9321af0cf011b77aef90bc3ea5bb"
 metafile = true
 
 [[files]]
